@@ -1,0 +1,33 @@
+var _____WB$wombat$assign$function_____=function(name){return (globalThis._wb_wombat && globalThis._wb_wombat.local_init && globalThis._wb_wombat.local_init(name))||globalThis[name];};if(!globalThis.__WB_pmw){globalThis.__WB_pmw=function(obj){this.__WB_source=obj;return this;}}{
+let window = _____WB$wombat$assign$function_____("window");
+let self = _____WB$wombat$assign$function_____("self");
+let document = _____WB$wombat$assign$function_____("document");
+let location = _____WB$wombat$assign$function_____("location");
+let top = _____WB$wombat$assign$function_____("top");
+let parent = _____WB$wombat$assign$function_____("parent");
+let frames = _____WB$wombat$assign$function_____("frames");
+let opener = _____WB$wombat$assign$function_____("opener");
+!function(t){function e(t,i){if(t.hasClass("premium-mask-yes")){if("premium-addon-title.default"===t.data("widget_type")){var e=".premium-title-header";t.find(e).find(".premium-title-icon, .premium-title-img").addClass("premium-mask-span")}else e=".premium-dual-header-first-header";t.find(e).find("span:not(.premium-title-style7-stripe-wrap):not(.premium-title-img)").each(function(t,e){var a="";i(this).text().split(" ").forEach(function(t){""!==t&&(a+=' <span class="premium-mask-span">'+t+"</span>")}),i(this).text("").append(a)}),elementorFrontend.waypoint(t,function(){i(t).addClass("premium-mask-active")})}}function a(t,i){var e=t.find(".premium-title-container"),a=e.find(".premium-title-text");if(e.hasClass("style9")&&t.find(".premium-title-style9").each(function(){var t=i(this),e=1e3*t.attr("data-blur-delay");t.attr("data-animation-blur","process"),t.find(".premium-title-style9-letter").each(function(t,e){var a;t+=1,a=i("body").hasClass("rtl")?.2/t+"s":t/20+"s",i(e).css({"-webkit-animation-delay":a,"animation-delay":a})}),setInterval(function(){t.attr("data-animation-blur","done"),setTimeout(function(){t.attr("data-animation-blur","process")},150)},e)}),e.hasClass("style8")){var n=1e3*a.attr("data-shiny-delay"),r=1e3*a.attr("data-shiny-dur");!function t(){a.get(0).setAttribute("data-animation","shiny"),setTimeout(function(){a.removeAttr("data-animation")},r),setTimeout(t,n)}()}}t(window).on("elementor/frontend/init",function(){elementorFrontend.hooks.addAction("frontend/element_ready/premium-addon-title.default",a),elementorFrontend.hooks.addAction("frontend/element_ready/premium-addon-title.default",e)})}(jQuery);!function(e){function t(e,u){var i=e.find(".premium-button-style6-bg");0!==i.length&&e.hasClass("premium-mouse-detect-yes")&&e.on("mouseenter mouseleave",".premium-button-style6",function(e){var t=u(this).offset(),n=e.pageX-t.left,o=e.pageY-t.top;i.css({top:o,left:n})})}e(window).on("elementor/frontend/init",function(){elementorFrontend.hooks.addAction("frontend/element_ready/premium-addon-button.default",t)})}(jQuery);!function(e){function t(e,n){if(e.hasClass("premium-mask-yes")){if("premium-addon-title.default"===e.data("widget_type")){var t=".premium-title-header";e.find(t).find(".premium-title-icon, .premium-title-img").addClass("premium-mask-span")}else t=".premium-dual-header-first-header";e.find(t).find("span:not(.premium-title-style7-stripe-wrap):not(.premium-title-img)").each(function(e,t){var i="";n(this).text().split(" ").forEach(function(e){""!==e&&(i+=' <span class="premium-mask-span">'+e+"</span>")}),n(this).text("").append(i)}),elementorFrontend.waypoint(e,function(){n(e).addClass("premium-mask-active")})}}e(window).on("elementor/frontend/init",function(){elementorFrontend.hooks.addAction("frontend/element_ready/premium-addon-dual-header.default",t)})}(jQuery);!function(i){function t(i,e){var a=i.find(".premium-bullet-list-box");a.find(".premium-bullet-list-content").each(function(i,n){a.data("list-animation")&&" "!=a.data("list-animation")&&elementorFrontend.waypoint(e(n),function(){var i=e(n),t=i.data("delay");setTimeout(function(){i.next(".premium-bullet-list-divider , .premium-bullet-list-divider-inline").css("opacity","1"),i.next(".premium-bullet-list-divider-inline , .premium-bullet-list-divider").addClass("animated "+a.data("list-animation")),i.css("opacity","1").addClass("animated "+a.data("list-animation"))},t)})})}i(window).on("elementor/frontend/init",function(){elementorFrontend.hooks.addAction("frontend/element_ready/premium-icon-list.default",t)})}(jQuery);
+}
+
+/*
+     FILE ARCHIVED ON 14:57:44 Nov 18, 2024 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:49:24 Jun 16, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 1.508
+  exclusion.robots: 0.072
+  exclusion.robots.policy: 0.064
+  esindex: 0.007
+  cdx.remote: 25.02
+  LoadShardBlock: 44.494 (3)
+  PetaboxLoader3.datanode: 67.536 (5)
+  PetaboxLoader3.resolve: 346.17 (2)
+  load_resource: 380.054
+  loaddict: 22.81
+*/
