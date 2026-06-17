@@ -14,8 +14,8 @@ isNaN(a.button_action_element_offset)&&(a.button_action_element_offset=0);b.anim
 }
 
 /*
-     FILE ARCHIVED ON 03:51:51 Jun 26, 2022 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 15:33:37 Jun 16, 2026.
+     FILE ARCHIVED ON 23:57:45 Mar 15, 2025 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:48:18 Jun 16, 2026.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -23,13 +23,13 @@ isNaN(a.button_action_element_offset)&&(a.button_action_element_offset=0);b.anim
 */
 /*
 playback timings (ms):
-  captures_list: 1.343
-  exclusion.robots: 0.157
-  exclusion.robots.policy: 0.137
-  esindex: 0.017
-  cdx.remote: 40.935
-  LoadShardBlock: 281.081 (3)
-  PetaboxLoader3.datanode: 107.701 (4)
-  PetaboxLoader3.resolve: 1547.471 (2)
-  load_resource: 1449.895
+  captures_list: 1.849 (2)
+  exclusion.robots: 0.387 (2)
+  exclusion.robots.policy: 0.361 (2)
+  esindex: 0.029 (2)
+  cdx.remote: 60.441 (2)
+  LoadShardBlock: 411.384 (6)
+  PetaboxLoader3.resolve: 472.4 (6)
+  PetaboxLoader3.datanode: 293.321 (8)
+  load_resource: 443.338 (2)
 */
